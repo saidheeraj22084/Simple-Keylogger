@@ -30,6 +30,9 @@ This project is a basic keylogger for both Linux and Windows systems, written in
 - View the log file:
 - Open the log file located at `~/Desktop/file.log` or the path you've set in the environment variable
 
+## Disclaimer
+This tool is for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Use responsibly!
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
